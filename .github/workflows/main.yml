@@ -29,7 +29,7 @@ on:
       KERNEL_NAME:
         description: "内核名称修改(中文不行)"
         required: true
-        default: '-By-kuan-FutabaWa'
+        default: '-8-g822fe366af87-abogki-4k'
       KERNEL_TIME:
        description: "内核构建日期更改(默认为原厂)"
        required: true
